@@ -1,0 +1,3 @@
+name: MishaAntiBot
+version: '${project.version}'
+main: f3f5.govno.mishaantibot.MishaAntiBot
